@@ -1,0 +1,231 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "exercices.retos_semanales.reto_36.Main",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "workingWithClass.ejerCatalogo_intefaces.Main",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "workingWithClass.interfacesJava.main",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "workingWithClass.ejerC_abstrac.Main",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "workingWithClass.abstractClases.Main",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "workingWithClass.ejerB.Main",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "workingWithClass.ejerA.Main",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch contructores",
+            "request": "launch",
+            "mainClass": "workingWithClass.contructoresysobrescritura.contructores",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch contructores",
+            "request": "launch",
+            "mainClass": "workingWithClass.contructores.contructores",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Herencia",
+            "request": "launch",
+            "mainClass": "workingWithClass.herencia.Herencia",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClassMain",
+            "request": "launch",
+            "mainClass": "workingWithClass.ClassMain",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArraysExercises",
+            "request": "launch",
+            "mainClass": "exercices.ArraysExercises",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArraysJava",
+            "request": "launch",
+            "mainClass": "ArraysJava",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClassMath",
+            "request": "launch",
+            "mainClass": "ClassMath",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Valor_Referencia",
+            "request": "launch",
+            "mainClass": "Valor_Referencia",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Wrapper",
+            "request": "launch",
+            "mainClass": "Wrapper",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch WrapperInteger",
+            "request": "launch",
+            "mainClass": "WrapperInteger",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch MenuDinamico",
+            "request": "launch",
+            "mainClass": "exercices.MenuDinamico",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch notasAlumnos",
+            "request": "launch",
+            "mainClass": "exercices.notasAlumnos",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch smallerNumber",
+            "request": "launch",
+            "mainClass": "exercices.smallerNumber",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch NameLonger",
+            "request": "launch",
+            "mainClass": "exercices.NameLonger",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch DepositFuel",
+            "request": "launch",
+            "mainClass": "exercices.DepositFuel",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch DepositFuel",
+            "request": "launch",
+            "mainClass": "DepositFuel",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch loginStrings",
+            "request": "launch",
+            "mainClass": "loginStrings",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operators",
+            "request": "launch",
+            "mainClass": "Operators",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ManagmentNames",
+            "request": "launch",
+            "mainClass": "ManagmentNames",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Extension",
+            "request": "launch",
+            "mainClass": "Extension",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factura",
+            "request": "launch",
+            "mainClass": "Factura",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConversionTypes",
+            "request": "launch",
+            "mainClass": "ConversionTypes",
+            "projectName": "Java_Course_28eb86d3"
+        },
+        {
+            "type": "java",
+            "name": "Launch StartingWithJava",
+            "request": "launch",
+            "mainClass": "StartingWithJava",
+            "projectName": "Java_Course_28eb86d3"
+        }
+    ]
+}
